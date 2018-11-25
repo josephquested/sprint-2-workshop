@@ -14,12 +14,15 @@ h2 {
   font-size: 20pt;
 }
 
+p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .alligned-left {
   text-align: left;
 }
 
 #red-p-tag {
-  margin-top: 50px;
-  margin-bottom: 50px;
   color: red;
 }
